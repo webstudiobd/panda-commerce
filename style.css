@@ -1,0 +1,160 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.slides-inner-content h1{
+    color: #1F1F1F;
+    font-weight: 500;
+    font-size: 41px;
+}
+
+.slides-inner-content p{
+    color: #707070;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 15px 0;
+}
+
+.slides-inner-content .price{
+    color: #FF136F;
+    font-weight: 600;
+    font-size: 41px;
+    padding-bottom: 15px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* Categories */
+.single-item-product{
+    padding: 15px 0px 15px 20px;
+}
+.cat-bg-1{
+    background-image: linear-gradient(to right, #FFA034, #FFD019);
+    
+}
+.cat-bg-2{
+    background-image: linear-gradient(to right, #FF3383, #FF3685);
+    
+}
+.cat-bg-3{
+    background-image: linear-gradient(to right, #4160FC, #3F09F8);
+    
+}
+
+.single-item-product h1{
+    font-size: 40px;
+    font-weight: 500;
+    color: #fff;
+}
+
+
+.single-deck-item{
+    text-align: center;
+    border: none;
+    box-shadow: 10px 10px 20px -20px rgba(0,0,0,0.75);
+    border-radius: 10px;
+}
+
+.price-deck{
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.buy-now-button-deck{
+    background-color: #222;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.shoe-area{
+    background-color: #F8F8F8;
+    padding: 50px 0;
+
+}
+.shoe-area-title{
+    margin: 25px 0;
+    
+}
+
+
+.backpack-area{
+    background-color: #F8F8F8;
+    padding-bottom: 50px;
+
+}
+.backpack-area-title{
+    margin: 25px 0;
+    
+}
+
+/* Subscribe area */
+
+.subscribe-area{
+    background-color: #FEEAE9; 
+    height: 300px;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.subscribe-content h2{
+    font-size: 30px;   
+}
+.subscribe-content h6{
+    margin-bottom: 30px;
+    font-size: 16px;
+    color: #707070;
+}
+
+input[type="text"] {
+    border: none;
+    padding: 23px 50px;
+    margin-right: 0;
+    color: #CCCCCC;
+
+}
+
+.subscribe-button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 10px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+}
+
+footer p{
+    text-align: center;
+}
